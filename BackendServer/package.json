@@ -15,7 +15,7 @@
     "jsonwebtoken": "^8.5.1",
     "mysql2": "^2.2.1",
     "pm2": "^2.1.6",
-    "sequelize": "^6.3.5"
+    "sequelize": "^6.6.5"
   },
   "repository": {
     "type": "git",
